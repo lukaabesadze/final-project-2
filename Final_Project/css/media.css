@@ -1,0 +1,219 @@
+@media(max-width:1300px){
+    .container{
+        width: 95%;
+    }
+}
+@media(max-width:1160px){
+    .navigation {
+        display: none;
+    }
+    .burgerbar{
+        display: inline-block;
+       
+    }
+    /**********************************************/
+   @media(max-width:1160px){
+    .tbilisi{
+        width: 100%;
+        height: 100%;
+    }
+   }
+    @media(max-width:800px){
+        .section-1{
+            display: flex;
+            flex-direction: column;
+            margin: 0 7px;
+        
+        }   
+       @media(max-width: 800px){
+        .mainimage{
+            width: 100%;
+            height: 100%;
+        }
+       }
+      
+       }
+       @media(max-width:1280px){
+        .nature1{
+            display: none;                
+      }
+    }
+    }
+    @media(max-width:1160px){
+        .photos-1{
+            gap:20px;
+           display: flex;
+           justify-content: space-around;
+        }
+        @media(max-width:790px){
+            .photos-1{
+                display: flex;
+                flex-direction:column;
+                
+            }
+        }
+        @media(max-width:790px){
+            .nature{
+                width: 100%;
+                height: 100%;
+            }
+        }
+        @media(max-width: 985px){
+            .list-2{
+                margin-top: 0px;
+                display: flex;
+                display: block;
+                text-align: center;
+            }
+        }
+        
+}
+@media(max-width: 1288px){
+ .textbox2{
+    display:inline-block ;
+    
+ }
+ .textbox{
+    display: none;
+ }
+    .geo-h2{
+        font-size: 32px;
+    }
+   
+    .georgia{
+        width:100%;
+        object-fit: cover;
+    }
+}
+@media(max-width:614px){
+    .geo-h2-2{
+        font-size: 20px;
+        
+    }
+    .geo-p1{
+        font-size: 16px;
+       
+      
+    }
+
+
+}
+
+@media(max-width:1280px){
+    .mainsection-1{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+
+}
+@media(max-width:650px){
+    .mainsection-1 img{
+        width:95%;
+        
+    }
+}
+@media(max-width:1280px){
+    .mainsection-1 img{
+        margin-top: 20px;
+        
+        
+    }
+}
+@media(max-width:610px){
+    .mainsection-1 p{
+        width: 210px;
+        font-size: 16px;
+    }
+}
+@media(max-width:1280px){
+    .mydiv_1{
+        flex-direction: column;
+       
+    }
+    .mydiv_2{
+        flex-direction: column;
+       
+    }
+    .sec_1{
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
+@media(max-width:1280px){
+    .lastsec {
+        flex-direction: column;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        
+    }
+    .lastsec p {
+        display: flex;
+        text-align: center;
+        width: 100%;
+    }
+    .lastsec img{
+        width: 90%;
+        object-fit: cover;
+        
+    }
+
+}
+@media(max-width:1270px){
+    .information-1 h2 ,.mymainp,.mybutton-main-2,.mybutton{
+    display: none;
+    }
+    .nonediv{
+        display: block;
+    }
+ .match{
+    flex-direction: column;
+    margin-top: 0px;
+    height: 736px;
+    margin-left: 0px;
+ }
+
+}
+@media(max-width:860px){
+    .geonakrebi .geoimage{
+        width: 75%;
+    }
+    .match img{
+        width: 100%;   
+       
+    }
+    .information-1{
+        margin-left: 0px;
+        
+    }
+}
+@media(max-width:1270px){
+    .thelast-sec{
+        flex-direction: column;
+    }
+    .maindiv{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .maindiv-2{
+        display: flex;
+        justify-content: center;
+    }
+   .mypharagraph p{
+    margin-left: 25px;
+   }
+   
+}
+
+@media(max-width:610px){
+    .thelast-sec img {
+      width: 100%;
+    }
+    .thelast-sec p{
+        width: 60px;
+        width: 100%;
+       }
+}
